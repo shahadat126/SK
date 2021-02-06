@@ -2,6 +2,9 @@
 body{
 	background-color:#1b1110;
 }
+li{
+	margin-left:50px;
+}
 
 #main-wrapper{
 	background:#152c2f;
