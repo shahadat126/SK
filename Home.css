@@ -29,13 +29,11 @@ li{
 #nav{
 	background-color:black;
 	height:45px;
-	
-}
-#nav {
-	list-style-type:none;
-	
+	list-style-type:none;	
 	display:block;
+	
 }
+
 #nav li{
 	float:left;	
 	width:140px;
@@ -185,5 +183,14 @@ z-index:9999px;
 	margin-left:105px;
 	margin-top:20px;
 	padding:10px 20px;
-	
+	width:200px;
+	height:100px;
+}
+
+#wrapper{
+	padding:10px;
+	display:block;
+	margin: auto 0;
+	background:white;
+
 }
